@@ -55,8 +55,6 @@
             <div class="content">
                 <p>Ngaji</p>
             </div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Penghargaan</h2>
             </div>
