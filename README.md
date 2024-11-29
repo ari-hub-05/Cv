@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -64,7 +63,7 @@
             <h2>Kemampuan</h2>
             </div>
             <div class="content">
-                <p>Service AC</p>
+                <p>Ngaji</p>
             </div>
         </section>
         <section>
