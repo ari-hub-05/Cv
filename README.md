@@ -67,8 +67,6 @@
             <div class="content">
                 <p>Main Game</p>
             </div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Organisasi</h2>
             </div>
