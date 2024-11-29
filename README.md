@@ -49,8 +49,6 @@
             <div class="content">
                 <p>Pemain timnas Indonesia</p>
             </div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Kemampuan</h2>
             </div>
