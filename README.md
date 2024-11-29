@@ -61,8 +61,6 @@
             <div class="content">
                 <p>Juara 1 Lomba Renang tingkat kabupaten 2011</p>
             </div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Hobi & Minat</h2>
             </div>
