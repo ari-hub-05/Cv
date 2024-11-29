@@ -28,8 +28,6 @@
             arijauhar@IT.ac.id <br />
             087722123331
             </div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Pendidikan</h2>
             </div>
