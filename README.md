@@ -17,12 +17,10 @@
                 Mahasiswa STTIKOM Insan Unggul <br />
                 Fakultas Teknik Komputer <br />
                 Program Studi Informatika <br />
-            </div>
+                <div>
             <div class="clear"></div>
         </div>
         <div class="mainarea"></div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Kontak</h2>
             </div>
