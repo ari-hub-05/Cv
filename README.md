@@ -47,10 +47,6 @@
                 <p>
                     STTIKOM Insan Unggul 2023-Sekarang <br />
                     Program Studi Teknik Informatika
-                </p>
-            </div>
-        </section>
-        <section>
             <div class="tittle">
             <h2>Pengalaman</h2>
             </div>
@@ -88,5 +84,3 @@
             </div>
             <div class="content">
                 <p>Panitia Futsal</p>
-</body>
-</html>
